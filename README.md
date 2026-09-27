@@ -108,7 +108,6 @@
 
 ---
 
-## 🐍 Contribution Snake
 
 ## 🐍 Contribution Snake
 
@@ -116,18 +115,7 @@
   <img src="https://raw.githubusercontent.com/ahmed404x/ahmed404x/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="100%" />
 </p>
 
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/ahmed404x/ahmed404x/output/github-contribution-grid-snake.svg"
-    />
-
-    <img
-      src="https://raw.githubusercontent.com/ahmed404x/ahmed404x/output/github-contribution-grid-snake.svg"
-      alt="GitHub Contribution Snake"
-    />
-  </picture>
-</p>
-
+  
 ---
 
 <p align="center">
