@@ -94,15 +94,6 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img
-    src="./github-stats.svg"
-    alt="Ahmed's GitHub Stats"
-    width="500"
-  />
-</p>
-
----
 
 
 ## 🐍 Contribution Snake
